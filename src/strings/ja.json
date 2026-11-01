@@ -186,7 +186,7 @@
     "ErrorAddingListingsToSchedulesDirect": "Schedules Direct のアカウントにラインナップを追加中にエラーが発生しました。Schedules Direct は、アカウントごとに限られた数のラインナップしか許可されません。先に進むには、Schedules Direct の Web サイトにログインし、アカウントから他のリストを削除する必要があります。",
     "ErrorAddingMediaPathToVirtualFolder": "メディアパスの追加中にエラーが発生しました。 パスが有効で、Jellyfin がその場所にアクセスできることを確認してください。",
     "ErrorAddingTunerDevice": "チューナーデバイスの追加中にエラーが発生しました。 アクセス可能であることを確認して、もう一度やり直してください。",
-    "ErrorAddingXmlTvFile": "XMLTV ファイルへのアクセス中にエラーが発生しました。 ファイルが存在することを確認して、お試しください。",
+    "ErrorAddingXmlTvFile": "XMLTV ファイルへのアクセス中にエラーが発生しました。 ファイルが存在することを確認して、やり直してください。",
     "ErrorDeletingItem": "サーバーからのアイテム削除中にエラーが発生しました。 Jellyfin にメディアフォルダーへの書き込み権限があることを確認し、もう一度お試しください。",
     "ErrorGettingTvLineups": "テレビ ラインナップ のダウンロードでエラーが発生しました。 情報が正しいことを確認し、やり直してください。",
     "ErrorStartHourGreaterThanEnd": "終了時間は開始時間より遅くしてください。",
